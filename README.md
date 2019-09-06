@@ -22,6 +22,18 @@ COMO LO HARE?
 realizare una serie de investigacion con la ayuda del ingeniero en el cual va aclarando las dudas de los diferentes conceptos que
 requiere comprender mas el tema.
 
+
+FECHA:06/09/2019
+
+QUE HICE HASTA AHORA? hoy
+Aprendi a realizar una buena realizacion de estructuracion de documentacion y una revision mediante github. 
+QUE ARE HOY?
+realizar buenos  practicas de desarrollo de la documentacion de mi proyecto
+COMO LO HARE?
+realizare una serie de investigacion con la ayuda del ingeniero en el cual va aclarando las dudas de los diferentes conceptos que
+requiere comprender mas el tema de mi trabajo a realizar en los modulos .
+
+
 GUIA TRABAJO DE INVESTIGACION
 
 INTRODUCCION
