@@ -11,6 +11,17 @@ QUE ARE HOY?
 
 COMO LO HARE?
 
+FECHA:05/09/2019
+
+QUE HICE HASTA AHORA? hoy
+Aprendi a realizar proyectos en Angular,aprendi a realizar una buena estructuracion de prototipos de proyectos con S.O.L.I.D. 
+aprendi a utilizar de una buena forma GitHub
+QUE ARE HOY?
+realizar buenos  patrones de arquitectura de desarrollo de un software
+COMO LO HARE?
+realizare una serie de investigacion con la ayuda del ingeniero en el cual va aclarando las dudas de los diferentes conceptos que
+requiere comprender mas el tema.
+
 GUIA TRABAJO DE INVESTIGACION
 
 INTRODUCCION
