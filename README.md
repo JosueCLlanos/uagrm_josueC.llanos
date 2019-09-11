@@ -50,7 +50,8 @@ FECHA:10/09/2019
 QUE HICE HASTA AHORA? hoy
 Aprendi a realizar una buena realizacion de proyecto con yaoman estructuracion del proyecto. 
 QUE ARE HOY?
-realizar buenos  practicas de desarrollo del proyecto yaoman y pruebas del software de testing
+realizar buenos  practicas de desarrollo del proyecto yaoman y pruebas del software de testing en el proyecto Angular 8
+abriendo desde Github con ayuda desde los comando desde cmd.
 COMO LO HARE?
 realizare una serie de investigacion con la guia del ingeniero para poder realizar buenas practicas del software.
 
