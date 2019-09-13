@@ -34,6 +34,27 @@ realizare una serie de investigacion con la ayuda del ingeniero en el cual va ac
 requiere comprender mas el tema de mi trabajo a realizar en los modulos .
 
 
+
+FECHA:09/09/2019
+
+QUE HICE HASTA AHORA? hoy
+Aprendi a realizar una buena realizacion de estructuracion de documentacion y pruebas en el software tomando encuenta el proyecto yaoman y provar alladori. 
+QUE ARE HOY?
+realizar buenos  practicas de desarrollo con un proyecto de muestra con yaoman
+COMO LO HARE?
+realizare una serie de investigacion con la ayuda del ingeniero en el cual seve el desarrollo de los ejemplos del proyecto de yaoman con angular.
+
+
+FECHA:10/09/2019
+
+QUE HICE HASTA AHORA? hoy
+Aprendi a realizar una buena realizacion de proyecto con yaoman estructuracion del proyecto. 
+QUE ARE HOY?
+realizar buenos  practicas de desarrollo del proyecto yaoman y pruebas del software de testing en el proyecto Angular 8
+abriendo desde Github con ayuda desde los comando desde cmd.
+COMO LO HARE?
+realizare una serie de investigacion con la guia del ingeniero para poder realizar buenas practicas del software.
+
 GUIA TRABAJO DE INVESTIGACION
 
 INTRODUCCION
