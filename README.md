@@ -55,6 +55,15 @@ abriendo desde Github con ayuda desde los comando desde cmd.
 COMO LO HARE?
 realizare una serie de investigacion con la guia del ingeniero para poder realizar buenas practicas del software.
 
+FECHA:17/09/2019
+
+QUE HICE HASTA AHORA?
+desarrollo de software con framework  con una metodologia agil de desarrollo  un buen desarrollo con los diversos tipos de framework  IONIC, Angular entre otros.
+QUE ESTAS HOY 
+realizar una buen desarrollo de software agil rapido con ORACLE APEX
+realizar una alternativa de desarrollo agil de un entrono de desarrollo 
+COMO LO HAREA?
+realizare mediante investigacion en la pagina de  ORACLE APEX y con la guia del docente 
 GUIA TRABAJO DE INVESTIGACION
 
 INTRODUCCION
